@@ -1,0 +1,5 @@
+{
+  "name": "PriFoot – AI Football Predictor",
+  "description": "An AI-powered football match prediction app that uses real-time and historical data from the AllSportsAPI and predictions from Google Gemini to predict match outcomes.",
+  "requestFramePermissions": []
+}
